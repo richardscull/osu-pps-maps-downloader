@@ -1,0 +1,22 @@
+{
+  "name": "osu-pps-maps-downloader",
+  "version": "7.2.7",
+  "description": "Downloads osu! pp maps",
+  "main": "main.js",
+  "scripts": {
+    "buildAndRun": "tsc && node build/main.js"
+  },
+  "author": "richardscull",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3",
+    "@types/papaparse": "^5.3.7",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "inquirer": "^8.2.6",
+    "jsoning": "^0.13.23",
+    "papaparse": "^5.4.1"
+  }
+}
