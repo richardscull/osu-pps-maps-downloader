@@ -18,6 +18,6 @@ After that, use `Start.bat` to build and run the program.
 
 ## 🍺 Many thanks to grumd!
 
-This repo is very depended on his database of maps, so respect to him.
+This repo is very dependent on his database of maps, so respect to him.
 
 (I also used his beatmap interfaces 🫠)
