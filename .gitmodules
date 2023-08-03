@@ -1,0 +1,4 @@
+[submodule "osu-pps"]
+	path = osu-pps
+	url = https://github.com/grumd/osu-pps.git
+	branch = data
